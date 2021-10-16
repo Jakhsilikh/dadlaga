@@ -17,7 +17,7 @@ const filedownload = () => {
       </div>
       <div className="contentpar"></div>
       <div className="rows-header"></div>
-      <div className="type">Төрөл</div>
+      <div className="type">Төрөл 1212</div>
       <div className="name">Файлын нэр</div>
       <div className="name1">Teamviewer</div>
       <div className="download"></div>
